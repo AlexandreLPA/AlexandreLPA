@@ -43,6 +43,7 @@
 ### DevOps:
 
 [![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Sentry](https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=sentry&logoColor=white)](https://sentry.io/)
 
 #### Version control:
 
