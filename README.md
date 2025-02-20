@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-#####  I'm Alexandre, and I'm currently a co-founder and developer at a startup called WIBI, which owns the Dreambook app. Dreambook is an application for recording dreams and inducing lucid dreams. We have renowned neuroscientists as advisors in this project to bring our compromisse with science, our objective is improve dreams and science in this relatively new field!
+#####  I'm Alexandre, and I'm currently a co-founder and developer at a startup called Dreambook. Dreambook is an application for recording dreams and inducing lucid dreams. We have renowned neuroscientists as advisors in this project to bring our compromisse with science, our objective is improve dreams and science in this relatively new field!
 
 ##### I've always interacted and loved technology, and this led me to search everything about development. That's why I chose IT as my career; I simply love solve problems and how vast the world of technology can be!
 
